@@ -1,0 +1,17 @@
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.navbar-nav > li{
+  margin-left:30px;
+  margin-right:30px;
+}
+#GSMSTTSA{
+	color:#E1C6AC;
+}
