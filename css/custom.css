@@ -15,3 +15,15 @@
 #GSMSTTSA{
 	color:#E1C6AC;
 }
+
+.body{
+	background-color: #000000;
+}
+.navbar navbar-text navbar-fixed-bottom{
+	  font-family: 'Ubuntu', sans-serif;
+	  color: "#FFF";
+
+}
+.html,.body{
+    height: 100%
+}
